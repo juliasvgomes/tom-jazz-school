@@ -6,6 +6,10 @@ Este é um projeto de landing page criado com HTML e CSS, seguindo as instruçõ
 
 O objetivo deste projeto era criar uma landing page simples usando apenas HTML e CSS. O design foi baseado no layout fornecido no Figma durante o tutorial.
 
+## Preview
+
+![preview](projeto.png)
+
 ## Pré-requisitos
 
 Para visualizar e modificar o projeto, você precisará de um editor de código, como o Visual Studio Code, e um navegador da web moderno.
