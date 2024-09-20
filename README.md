@@ -10,6 +10,8 @@ O objetivo deste projeto era criar uma landing page simples usando apenas HTML e
 
 ![preview](projeto.png)
 
+[Link para acessar](https://juliasvgomes.github.io/tom-jazz-school/)
+
 ## Pré-requisitos
 
 Para visualizar e modificar o projeto, você precisará de um editor de código, como o Visual Studio Code, e um navegador da web moderno.
